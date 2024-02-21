@@ -1,0 +1,1 @@
+This project was created to study the basics of html and css. It is just an implementation of a static page without JS or any other language. This case study were found on roadmap.sh and cloned from a Figma project.
